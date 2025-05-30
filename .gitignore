@@ -1,0 +1,71 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+ios/
+linux/
+macos/
+test/
+windows/
+web/
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
+
+# Flutter repo-specific
+/bin/cache/
+/bin/internal/bootstrap.bat
+/bin/internal/bootstrap.sh
+/bin/mingit/
+/dev/benchmarks/mega_gallery/
+/dev/bots/.recipe_deps
+/dev/bots/android_tools/
+/dev/devicelab/ABresults*.json
+/dev/docs/doc/
+/dev/docs/flutter.docs.zip
+/dev/docs/lib/
+/dev/docs/pubspec.yaml
+/dev/integration_tests/**/xcuserdata
+/dev/integration_tests/**/Pods
+/dev/integration_tests/**/Runner.build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Coverage
+coverage/
+
+# Temporary files
+.temp/
+.tmp/
