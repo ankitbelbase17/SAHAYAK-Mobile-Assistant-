@@ -23,7 +23,7 @@ A smart mobile assistant application built with Flutter that helps users manage 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/anish-bk/Mobile-Assistant.git
+git clone https://github.com/ankitbelbase17/SAHAYAK-Mobile-Assistant.git
 ```
 2. Navigate to the project directory
 ```bash
